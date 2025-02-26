@@ -7,7 +7,7 @@ The repo consists in creating a Rest API using Django to create an Event manager
 This API provides endpoints to manage events and attendees for a event. All the application was dockerized, so you can clone the git repository:
 
 ```
-git clone https://github.com/bergermatheus/TikoChallenge.git
+git clone https://github.com/bergermatheus/TicketManager.git
 ```
 
 And then inside of the folder TikoChallenge you will find a file docker-compose.yaml.
